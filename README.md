@@ -49,10 +49,6 @@ Use the arrow keys to control your paddle. Press keys 1, 2, or 3 to change the d
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to customize this content according to your project's specifics. Let me know if you need any further assistance!
