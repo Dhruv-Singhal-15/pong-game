@@ -51,4 +51,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ---
 
-Feel free to customize this content according to your project's specifics. Let me know if you need any further assistance!
