@@ -1,7 +1,3 @@
-Sure, here's some content you can use for the README file:
-
----
-
 # Pong Game
 
 Pong is a classic arcade game where players control paddles to hit a ball back and forth. This project is a simple implementation of the Pong game using Python and Pygame library.
